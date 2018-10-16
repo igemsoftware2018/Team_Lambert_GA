@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreditActivity">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".ResultsActivity" >
+
+
+        <TextView
+            android:id="@+id/text_view_id"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Credits"
+            android:textSize="12pt"
+            />
+
+        <TextView
+            android:id="@+id/blank0"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/text_view_id"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank0"
+            android:text="Krishi Kishore"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results1"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank1"
+            android:text="David Standeven"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results2"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank2"
+            android:text="Emily Gibson"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank3"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results3"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank3"
+            android:text="Mrs. Standeven"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank4"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results4"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank4"
+            android:text="Dr. Cantrell"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank5"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results5"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank5"
+            android:text="Lambert iGEM 2017"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank6"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results6"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+        <TextView
+            android:id="@+id/results7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/blank6"
+            android:text="Lambert iGEM 2018"
+            android:textSize="8pt" />
+
+        <TextView
+            android:id="@+id/blank7"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/results7"
+            android:text=""
+            android:textSize="2pt"
+            />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

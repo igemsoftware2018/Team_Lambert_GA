@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Q</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pick_from_album">From album</string>
+    <string name="pick_from_camera">From camera</string>
+    <string name="results_title">Results</string>
+    <string name="first_result">Test 1:</string>
+    <string name="second_result">Test 2:</string>
+
+</resources>

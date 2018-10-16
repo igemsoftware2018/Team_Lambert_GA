@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/40a98c709544c8226785b67ea7ef8248/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/e600326e5728f803d6cfb2bba1d5f3fb/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/53340cd31a8ac665b1128c2c18b1afdc/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2967bdc90d5594bf0bde3eacfb31e2dd/AndroidManifest.xml:17:1-22:12
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/624a08a4a5d73b8a4b8fff6d0479d571/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae668ad64098dd89a0338287aa4f15ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/d683cda3e446bf0337ca370299159a6c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/38d1113ead002b43e0933fdeb5de9b48/AndroidManifest.xml:17:1-22:12
+MERGED from [:openCVLibrary343] /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/167b17f9c7d55416dbbd0cb9c5be2556/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/46f4f0dc40c0c3802db90c5783729efa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c2404f34825755b2e3f5f444ef58b10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74c7b8d24f3d26a038031fdde70e8e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b9f43673794bf3bb77bcf757e1c7f9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2ad511f45db3c5486aa7ba58db410b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/262adb7a216dd13057ef49b5ea3e94ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce35821a273d2901188f14418c9d5651/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/666e294d9d6b0d77a63186fdb27249d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/77d23ccc852d2b43d2fa4ccdadbefffe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c35c5583074a88808706dee0b0812bb0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ead1f01e23e5beb83ababb49a98f67d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/68c0a8b98b8e6aaa97427008e6c39c6b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/40a98c709544c8226785b67ea7ef8248/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/40a98c709544c8226785b67ea7ef8248/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/e600326e5728f803d6cfb2bba1d5f3fb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/e600326e5728f803d6cfb2bba1d5f3fb/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/53340cd31a8ac665b1128c2c18b1afdc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/53340cd31a8ac665b1128c2c18b1afdc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2967bdc90d5594bf0bde3eacfb31e2dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2967bdc90d5594bf0bde3eacfb31e2dd/AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/624a08a4a5d73b8a4b8fff6d0479d571/AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/624a08a4a5d73b8a4b8fff6d0479d571/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae668ad64098dd89a0338287aa4f15ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ae668ad64098dd89a0338287aa4f15ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/d683cda3e446bf0337ca370299159a6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/d683cda3e446bf0337ca370299159a6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.3] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/38d1113ead002b43e0933fdeb5de9b48/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/38d1113ead002b43e0933fdeb5de9b48/AndroidManifest.xml:20:5-43
+MERGED from [:openCVLibrary343] /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary343] /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/167b17f9c7d55416dbbd0cb9c5be2556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/167b17f9c7d55416dbbd0cb9c5be2556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/46f4f0dc40c0c3802db90c5783729efa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/46f4f0dc40c0c3802db90c5783729efa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c2404f34825755b2e3f5f444ef58b10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c2404f34825755b2e3f5f444ef58b10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74c7b8d24f3d26a038031fdde70e8e1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/74c7b8d24f3d26a038031fdde70e8e1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b9f43673794bf3bb77bcf757e1c7f9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0b9f43673794bf3bb77bcf757e1c7f9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2ad511f45db3c5486aa7ba58db410b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2ad511f45db3c5486aa7ba58db410b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/262adb7a216dd13057ef49b5ea3e94ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/262adb7a216dd13057ef49b5ea3e94ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce35821a273d2901188f14418c9d5651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce35821a273d2901188f14418c9d5651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/666e294d9d6b0d77a63186fdb27249d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/666e294d9d6b0d77a63186fdb27249d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/77d23ccc852d2b43d2fa4ccdadbefffe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/77d23ccc852d2b43d2fa4ccdadbefffe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c35c5583074a88808706dee0b0812bb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c35c5583074a88808706dee0b0812bb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ead1f01e23e5beb83ababb49a98f67d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ead1f01e23e5beb83ababb49a98f67d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/68c0a8b98b8e6aaa97427008e6c39c6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/68c0a8b98b8e6aaa97427008e6c39c6b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:14:9-47
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:21:22-76
+application
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:23:5-48:19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/e600326e5728f803d6cfb2bba1d5f3fb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.2.aar/e600326e5728f803d6cfb2bba1d5f3fb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/53340cd31a8ac665b1128c2c18b1afdc/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.2.aar/53340cd31a8ac665b1128c2c18b1afdc/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:19:5-21:19
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/624a08a4a5d73b8a4b8fff6d0479d571/AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/easypermissions-0.2.1.aar/624a08a4a5d73b8a4b8fff6d0479d571/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/d683cda3e446bf0337ca370299159a6c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/d683cda3e446bf0337ca370299159a6c/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.lambertigem.colorq.MainActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:29:13-63
+activity#com.lambertigem.colorq.ResultsActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:33:13-66
+activity#com.lambertigem.colorq.MenuActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:36:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:41:27-74
+activity#com.lambertigem.colorq.InstructionsActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:44:9-80
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:44:19-77
+activity#com.lambertigem.colorq.CreditActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:45:9-74
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:45:19-71
+activity#com.lambertigem.colorq.SaveActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:46:9-72
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:46:19-69
+activity#com.lambertigem.colorq.FinalActivity
+ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:47:9-82
+	android:name
+		ADDED from /Users/kishorevenkataseshan/AndroidStudioProjects/Android-Camera-master/app/src/main/AndroidManifest.xml:47:19-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.2.aar/3c3f2cf3e9f24fa87ba1c65c75935562/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/kishorevenkataseshan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.2.aar/ea495ad885012432687107fd4d064431/AndroidManifest.xml:20:20-65

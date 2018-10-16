@@ -11,3 +11,4 @@ public class CreditActivity extends Activity {
         setContentView(R.layout.activity_credit);
     }
 }
+

@@ -5,8 +5,8 @@ Color Q is a free mobile application developed in Java for the Google Play Store
 
 The Hough Circle Transform is used as the method of circle detection found in the app. Open Computer Vision (OpenCV) is a library that can be imported into Android Studio in order to perform image analysis-based methods. The image taken by the smartphone camera is converted into a grayscale photo. This essentially makes the image more readable in terms of edge detection and "round" estimation. There are several parameters that can be modified and calibrated in order to detect an accurate amount of circles: 
 
-Maximum Radius: The smallest value for the radius of a detected circle
-Minimum Radius: The largest value for the radius of a detected circle
-Minimum Distance: The smallest distance between the centers of any two detected circles
-Edge Gradient Value: The roundness of each detected circle
-Threshold Value: The amount of memory the system has to store the detected circles
+- Maximum Radius: The smallest value for the radius of a detected circle
+- Minimum Radius: The largest value for the radius of a detected circle
+- Minimum Distance: The smallest distance between the centers of any two detected circles
+- Edge Gradient Value: The roundness of each detected circle
+- Threshold Value: The amount of memory the system has to store the detected circles

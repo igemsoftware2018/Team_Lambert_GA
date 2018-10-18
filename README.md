@@ -22,3 +22,4 @@ The 6 by 6 grid located underneath the first row can be loaded with experimental
 <br>
 
 The results are then displayed based upon the row in which the circles fall in on the base of the Chrome Q hardware. The app is able to determine the row in which the circles fall in by comparing y-coordinates. If the y-values are similar to each other, then the circles are classified as being on the same row. The relative values are then transferred to another page within the app where the user is able to enter information that could help contribute to our machine learning model, CALM. The application uses the latitude, longitude, and timestamp values obtained from the phone's GPS to effectively determine where and when the test was run. When the user submits the data, the results are sent to a MySQL database, which is a part of the Relational Database Service (RDS) as a part of the Amazon Web Services (AWS) platform. 
+
